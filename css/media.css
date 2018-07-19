@@ -1,0 +1,98 @@
+@media only screen and (max-width: 1200px) {
+    .technology-item-desc {
+        padding: 10px;
+    }
+    .technology-item-text {
+        font-size: 15px;
+        padding: 10px;
+    }
+    .wrap-technology-title {
+        padding: 10px;
+    }
+    .technology-item-num {
+        font-size: 20px;
+        width: 50px;
+        height: 50px;
+        padding: 7px 12px;
+        margin-right: 5px;
+    }
+    .technology-item-title {
+        font-size: 16px;
+        padding: 3px 7px;
+    }
+}
+@media only screen and (max-width: 992px) {
+    .main-right {
+        height: auto;
+        padding: 20px;
+        -webkit-flex-flow: row wrap;
+        -ms-flex-flow: row wrap;
+        flex-flow: row wrap;
+    }
+    .technology-item-desc {
+        padding: 5px;
+    }
+    .technology-item-text {
+        font-size: 14px;
+        padding: 5px;
+    }
+    .wrap-technology-title {
+        padding: 5px;
+    }
+    .technology-item-num {
+        font-size: 16px;
+        width: 45px;
+        height: 45px;
+        padding: 3px 7px;
+        margin-right: 0;
+    }
+    .technology-item-title {
+        font-size: 14px;
+        padding: 2px 3px;
+    }
+}
+@media only screen and (max-width: 768px) {
+    .main-section,
+    .main-left,
+    .wrap-main {
+        height: 500px;
+    }
+    .main-title {
+        font-size: 28px;
+    }
+    .main-desc {
+        font-size: 18px;
+    }
+    .technology-item-desc {
+        padding: 15px;
+    }
+    .technology-item-text {
+        font-size: 15px;
+        padding: 10px;
+    }
+    .wrap-technology-title {
+        padding: 15px;
+    }
+    .technology-item-num {
+        font-size: 22px;
+        width: 60px;
+        height: 60px;
+        padding: 10px 15px;
+        margin-right: 10px;
+    }
+    .technology-item-title {
+        font-size: 17px;
+        padding: 5px 10px;
+    }
+}
+@media only screen and (max-width: 480px) {
+    .main-left {
+        background: url(../img/bg/bg_main_mob.jpg) no-repeat scroll center center;
+    }
+    .section-title-lines {
+        height: 10px;
+    }
+    .section-title {
+        font-size: 24px;
+    }
+}
